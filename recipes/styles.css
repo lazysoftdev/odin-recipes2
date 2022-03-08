@@ -1,0 +1,31 @@
+body {
+    font-family: monospace;
+    background-color: #eee;
+    margin: 40px;
+}
+
+.example {
+    width: 500px;
+    height: 300px;
+}
+
+.jars {
+    width: 440px;
+    height: 190px;
+}
+
+.box {
+    width: 400px;
+    height: 250px;
+    float: left;
+    padding: 0px 40px 80px 0px;
+}
+
+.ingredients {
+    display: inline;
+}
+
+.link {
+    font-weight: bold;
+}
+
